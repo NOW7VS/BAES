@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+}
+.nav {
+    margin-left: 3%;
+}
+.t {
+    margin-top: 0.7%;
+    font-size: large;
+}
+
+
+.p {
+    color:black; 
+    font-family: 'Bebas Neue', cursive;
+    font-size: xx-large;
+}
+h1{
+    font-family: 'Do Hyeon', sans-serif;
+    font-size: xx-large;
+    margin-top: 3%;
+    margin-left: 3%;
+
+}
+h2 {
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: x-large;
+    margin-top: 3%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.o {
+    text-decoration: none;
+    font-family: 'Do Hyeon', sans-serif;
+    font-size: xx-large;
+    margin-top: 3%;
+    margin-left: 3%;
+    color: black;
+}
